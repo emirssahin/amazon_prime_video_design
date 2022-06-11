@@ -1,4 +1,4 @@
-# amazon_prime_video_app
+# amazon_prime_video_design
 
 A new Flutter project.
 
